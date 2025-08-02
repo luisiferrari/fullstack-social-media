@@ -6,3 +6,5 @@ Links: https://www.youtube.com/watch?v=_sSTzz13tVY&t=181s&ab_channel=PedroTech
 Tecnologies:
     Front: react
     DB: Supabase
+
+Stoped as 19:55
