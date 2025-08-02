@@ -1,0 +1,8 @@
+# Project: Fullstack social media App with Auth, react, Supabase, PostGreSQL
+# Start: 2025-08-02
+# Author: Luis Ferrrari
+
+Links: https://www.youtube.com/watch?v=_sSTzz13tVY&t=181s&ab_channel=PedroTech
+Tecnologies:
+    Front: react
+    DB: Supabase
